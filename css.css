@@ -1,0 +1,10 @@
+.link{
+		padding: 5px;
+		text-decoration: 	none;
+		color: 	white;
+		background-color: 	orange;
+	}
+
+#th, #td{
+	text-align: center;
+}
